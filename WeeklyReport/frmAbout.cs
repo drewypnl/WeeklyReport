@@ -13,6 +13,7 @@ namespace WeeklyReport
     {
         public frmAbout()
         {
+            ///Test Commit
             InitializeComponent();
             this.Text = String.Format("About {0}", AssemblyTitle);
             this.labelProductName.Text = AssemblyProduct;
